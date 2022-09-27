@@ -1,0 +1,37 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: <your-service-name>
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: <your-service-name>
+  template:
+    metadata:
+      labels:
+        app: <your-service-name>
+    spec:
+      containers:
+        - name: <your-service-name>
+          image: nexus.mynisum.com:2376/ascend-kafka/<your-service-name>:latest
+          imagePullPolicy: Always
+          ports:
+            - containerPort: 8080
+          env:
+            - name: PORT
+              value: "8080"
+      imagePullSecrets:
+        - name: registry-creds
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: <your-service-name>
+spec:
+  type: LoadBalancer
+  ports:
+    - port: 8080
+      targetPort: 8080
+  selector:
+    app: <your-service-name>

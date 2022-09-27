@@ -1,0 +1,93 @@
+[INFO ] 2022-09-22 10:30:04.086 [main] OmsbackendApplication - Starting OmsbackendApplication using Java 18.0.2.1 on Alejandros-MacBook-Pro.local with PID 9374 (/Users/alegarcia/Work/Assignments/oms_backend/omsbackend/target/classes started by alegarcia in /Users/alegarcia/Work/Assignments/oms_backend)
+[DEBUG] 2022-09-22 10:30:04.092 [main] OmsbackendApplication - Running with Spring Boot v2.7.3, Spring v5.3.22
+[INFO ] 2022-09-22 10:30:04.095 [main] OmsbackendApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2022-09-22 10:30:09.521 [main] OmsbackendApplication - Started OmsbackendApplication in 5.769 seconds (JVM running for 7.018)
+[INFO ] 2022-09-22 10:31:11.515 [main] OmsbackendApplication - Starting OmsbackendApplication using Java 18.0.2.1 on Alejandros-MacBook-Pro.local with PID 9466 (/Users/alegarcia/Work/Assignments/oms_backend/omsbackend/target/classes started by alegarcia in /Users/alegarcia/Work/Assignments/oms_backend)
+[DEBUG] 2022-09-22 10:31:11.536 [main] OmsbackendApplication - Running with Spring Boot v2.7.3, Spring v5.3.22
+[INFO ] 2022-09-22 10:31:11.539 [main] OmsbackendApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2022-09-22 10:31:16.598 [main] OmsbackendApplication - Started OmsbackendApplication in 5.432 seconds (JVM running for 6.36)
+[INFO ] 2022-09-22 10:50:22.024 [main] OmsbackendApplication - Starting OmsbackendApplication using Java 18.0.2.1 on Alejandros-MacBook-Pro.local with PID 10497 (/Users/alegarcia/Work/Assignments/oms_backend/omsbackend/target/classes started by alegarcia in /Users/alegarcia/Work/Assignments/oms_backend)
+[DEBUG] 2022-09-22 10:50:22.031 [main] OmsbackendApplication - Running with Spring Boot v2.7.3, Spring v5.3.22
+[INFO ] 2022-09-22 10:50:22.032 [main] OmsbackendApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2022-09-22 10:51:30.926 [main] OmsbackendApplication - Starting OmsbackendApplication using Java 18.0.2.1 on Alejandros-MacBook-Pro.local with PID 10573 (/Users/alegarcia/Work/Assignments/oms_backend/omsbackend/target/classes started by alegarcia in /Users/alegarcia/Work/Assignments/oms_backend)
+[DEBUG] 2022-09-22 10:51:30.935 [main] OmsbackendApplication - Running with Spring Boot v2.7.3, Spring v5.3.22
+[INFO ] 2022-09-22 10:51:30.940 [main] OmsbackendApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2022-09-22 10:51:36.053 [main] OmsbackendApplication - Started OmsbackendApplication in 5.464 seconds (JVM running for 6.498)
+[INFO ] 2022-09-22 11:08:27.900 [main] OmsbackendApplication - Starting OmsbackendApplication using Java 18.0.2.1 on Alejandros-MacBook-Pro.local with PID 11378 (/Users/alegarcia/Work/Assignments/oms_backend/omsbackend/target/classes started by alegarcia in /Users/alegarcia/Work/Assignments/oms_backend)
+[DEBUG] 2022-09-22 11:08:27.907 [main] OmsbackendApplication - Running with Spring Boot v2.7.3, Spring v5.3.22
+[INFO ] 2022-09-22 11:08:27.909 [main] OmsbackendApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2022-09-22 11:09:05.394 [main] OmsbackendApplication - Starting OmsbackendApplication using Java 18.0.2.1 on Alejandros-MacBook-Pro.local with PID 11448 (/Users/alegarcia/Work/Assignments/oms_backend/omsbackend/target/classes started by alegarcia in /Users/alegarcia/Work/Assignments/oms_backend)
+[DEBUG] 2022-09-22 11:09:05.402 [main] OmsbackendApplication - Running with Spring Boot v2.7.3, Spring v5.3.22
+[INFO ] 2022-09-22 11:09:05.405 [main] OmsbackendApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2022-09-22 11:09:10.545 [main] OmsbackendApplication - Started OmsbackendApplication in 5.517 seconds (JVM running for 6.59)
+[INFO ] 2022-09-22 11:16:56.036 [main] OmsbackendApplication - Starting OmsbackendApplication using Java 18.0.2.1 on Alejandros-MacBook-Pro.local with PID 11730 (/Users/alegarcia/Work/Assignments/oms_backend/omsbackend/target/classes started by alegarcia in /Users/alegarcia/Work/Assignments/oms_backend)
+[DEBUG] 2022-09-22 11:16:56.050 [main] OmsbackendApplication - Running with Spring Boot v2.7.3, Spring v5.3.22
+[INFO ] 2022-09-22 11:16:56.054 [main] OmsbackendApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2022-09-22 11:17:01.202 [main] OmsbackendApplication - Started OmsbackendApplication in 5.507 seconds (JVM running for 6.729)
+[INFO ] 2022-09-22 16:17:03.940 [main] OmsbackendApplication - Starting OmsbackendApplication using Java 18.0.2.1 on jiayuedeMacBook-Air.local with PID 33670 (/Users/jiayue/Downloads/oms_backend/omsbackend/target/classes started by jiayue in /Users/jiayue/Downloads/oms_backend)
+[DEBUG] 2022-09-22 16:17:03.954 [main] OmsbackendApplication - Running with Spring Boot v2.7.3, Spring v5.3.22
+[INFO ] 2022-09-22 16:17:03.959 [main] OmsbackendApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2022-09-22 16:33:14.756 [main] OmsbackendApplication - Starting OmsbackendApplication using Java 18.0.2.1 on jiayuedeMacBook-Air.local with PID 34087 (/Users/jiayue/Downloads/oms_backend/omsbackend/target/classes started by jiayue in /Users/jiayue/Downloads/oms_backend)
+[DEBUG] 2022-09-22 16:33:14.773 [main] OmsbackendApplication - Running with Spring Boot v2.7.3, Spring v5.3.22
+[INFO ] 2022-09-22 16:33:14.775 [main] OmsbackendApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2022-09-22 16:33:20.959 [main] OmsbackendApplication - Started OmsbackendApplication in 6.688 seconds (JVM running for 8.134)
+[INFO ] 2022-09-22 16:40:59.513 [main] OmsbackendApplication - Starting OmsbackendApplication using Java 18.0.2.1 on jiayuedeMacBook-Air.local with PID 34332 (/Users/jiayue/Downloads/oms_backend/omsbackend/target/classes started by jiayue in /Users/jiayue/Downloads/oms_backend)
+[DEBUG] 2022-09-22 16:40:59.530 [main] OmsbackendApplication - Running with Spring Boot v2.7.3, Spring v5.3.22
+[INFO ] 2022-09-22 16:40:59.533 [main] OmsbackendApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2022-09-22 16:41:06.019 [main] OmsbackendApplication - Started OmsbackendApplication in 6.926 seconds (JVM running for 8.582)
+[INFO ] 2022-09-22 19:40:40.025 [main] OmsbackendApplication - Starting OmsbackendApplication using Java 18.0.2.1 on jiayuedeMacBook-Air.local with PID 35342 (/Users/jiayue/Downloads/oms_backend/omsbackend/target/classes started by jiayue in /Users/jiayue/Downloads/oms_backend)
+[DEBUG] 2022-09-22 19:40:40.044 [main] OmsbackendApplication - Running with Spring Boot v2.7.3, Spring v5.3.22
+[INFO ] 2022-09-22 19:40:40.045 [main] OmsbackendApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2022-09-22 19:40:46.782 [main] OmsbackendApplication - Started OmsbackendApplication in 7.247 seconds (JVM running for 8.967)
+[INFO ] 2022-09-22 19:56:39.554 [main] OmsbackendApplication - Starting OmsbackendApplication using Java 18.0.2.1 on jiayuedeMacBook-Air.local with PID 35471 (/Users/jiayue/Downloads/oms_backend/omsbackend/target/classes started by jiayue in /Users/jiayue/Downloads/oms_backend)
+[DEBUG] 2022-09-22 19:56:39.562 [main] OmsbackendApplication - Running with Spring Boot v2.7.3, Spring v5.3.22
+[INFO ] 2022-09-22 19:56:39.563 [main] OmsbackendApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2022-09-22 19:56:45.795 [main] OmsbackendApplication - Started OmsbackendApplication in 6.689 seconds (JVM running for 8.339)
+[INFO ] 2022-09-22 20:09:09.742 [main] OmsbackendApplication - Starting OmsbackendApplication using Java 18.0.2.1 on jiayuedeMacBook-Air.local with PID 35568 (/Users/jiayue/Downloads/oms_backend/omsbackend/target/classes started by jiayue in /Users/jiayue/Downloads/oms_backend)
+[DEBUG] 2022-09-22 20:09:09.750 [main] OmsbackendApplication - Running with Spring Boot v2.7.3, Spring v5.3.22
+[INFO ] 2022-09-22 20:09:09.751 [main] OmsbackendApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2022-09-22 20:09:16.061 [main] OmsbackendApplication - Started OmsbackendApplication in 6.796 seconds (JVM running for 8.351)
+[INFO ] 2022-09-22 21:16:05.266 [main] OmsbackendApplication - Starting OmsbackendApplication using Java 18.0.2.1 on jiayuedeMacBook-Air.local with PID 36272 (/Users/jiayue/Downloads/oms_backend/omsbackend/target/classes started by jiayue in /Users/jiayue/Downloads/oms_backend)
+[DEBUG] 2022-09-22 21:16:05.276 [main] OmsbackendApplication - Running with Spring Boot v2.7.3, Spring v5.3.22
+[INFO ] 2022-09-22 21:16:05.278 [main] OmsbackendApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2022-09-22 21:16:12.463 [main] OmsbackendApplication - Started OmsbackendApplication in 7.754 seconds (JVM running for 9.15)
+[INFO ] 2022-09-23 09:32:06.840 [main] OmsbackendApplication - Starting OmsbackendApplication using Java 18.0.2.1 on Alejandros-MacBook-Pro.local with PID 4973 (/Users/alegarcia/Work/Assignments/oms_backend/omsbackend/target/classes started by alegarcia in /Users/alegarcia/Work/Assignments/oms_backend)
+[DEBUG] 2022-09-23 09:32:06.846 [main] OmsbackendApplication - Running with Spring Boot v2.7.3, Spring v5.3.22
+[INFO ] 2022-09-23 09:32:06.848 [main] OmsbackendApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2022-09-23 09:32:12.115 [main] OmsbackendApplication - Started OmsbackendApplication in 5.637 seconds (JVM running for 6.888)
+<<<<<<< HEAD
+=======
+[INFO ] 2022-09-23 14:15:46.940 [main] OmsbackendApplication - Starting OmsbackendApplication using Java 18.0.2.1 on jiayuedeMacBook-Air.local with PID 40629 (/Users/jiayue/Downloads/oms_backend/omsbackend/target/classes started by jiayue in /Users/jiayue/Downloads/oms_backend)
+[DEBUG] 2022-09-23 14:15:46.953 [main] OmsbackendApplication - Running with Spring Boot v2.7.3, Spring v5.3.22
+[INFO ] 2022-09-23 14:15:46.958 [main] OmsbackendApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2022-09-23 14:16:20.316 [main] OmsbackendApplication - Starting OmsbackendApplication using Java 18.0.2.1 on jiayuedeMacBook-Air.local with PID 40660 (/Users/jiayue/Downloads/oms_backend/omsbackend/target/classes started by jiayue in /Users/jiayue/Downloads/oms_backend)
+[DEBUG] 2022-09-23 14:16:20.325 [main] OmsbackendApplication - Running with Spring Boot v2.7.3, Spring v5.3.22
+[INFO ] 2022-09-23 14:16:20.326 [main] OmsbackendApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2022-09-23 14:21:41.040 [main] OmsbackendApplication - Starting OmsbackendApplication using Java 18.0.2.1 on jiayuedeMacBook-Air.local with PID 40717 (/Users/jiayue/Downloads/oms_backend/omsbackend/target/classes started by jiayue in /Users/jiayue/Downloads/oms_backend)
+[DEBUG] 2022-09-23 14:21:41.054 [main] OmsbackendApplication - Running with Spring Boot v2.7.3, Spring v5.3.22
+[INFO ] 2022-09-23 14:21:41.056 [main] OmsbackendApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2022-09-23 14:22:35.629 [main] OmsbackendApplication - Starting OmsbackendApplication using Java 18.0.2.1 on jiayuedeMacBook-Air.local with PID 40751 (/Users/jiayue/Downloads/oms_backend/omsbackend/target/classes started by jiayue in /Users/jiayue/Downloads/oms_backend)
+[DEBUG] 2022-09-23 14:22:35.645 [main] OmsbackendApplication - Running with Spring Boot v2.7.3, Spring v5.3.22
+[INFO ] 2022-09-23 14:22:35.646 [main] OmsbackendApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2022-09-23 14:22:41.647 [main] OmsbackendApplication - Started OmsbackendApplication in 6.479 seconds (JVM running for 7.872)
+[INFO ] 2022-09-23 14:34:06.969 [main] OmsbackendApplication - Starting OmsbackendApplication using Java 18.0.2.1 on jiayuedeMacBook-Air.local with PID 40838 (/Users/jiayue/Downloads/oms_backend/omsbackend/target/classes started by jiayue in /Users/jiayue/Downloads/oms_backend)
+[DEBUG] 2022-09-23 14:34:06.986 [main] OmsbackendApplication - Running with Spring Boot v2.7.3, Spring v5.3.22
+[INFO ] 2022-09-23 14:34:06.989 [main] OmsbackendApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2022-09-23 14:34:13.214 [main] OmsbackendApplication - Started OmsbackendApplication in 6.672 seconds (JVM running for 8.324)
+[INFO ] 2022-09-23 14:36:57.186 [main] OmsbackendApplication - Starting OmsbackendApplication using Java 18.0.2.1 on jiayuedeMacBook-Air.local with PID 40879 (/Users/jiayue/Downloads/oms_backend/omsbackend/target/classes started by jiayue in /Users/jiayue/Downloads/oms_backend)
+[DEBUG] 2022-09-23 14:36:57.202 [main] OmsbackendApplication - Running with Spring Boot v2.7.3, Spring v5.3.22
+[INFO ] 2022-09-23 14:36:57.208 [main] OmsbackendApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2022-09-23 14:37:05.122 [main] OmsbackendApplication - Started OmsbackendApplication in 8.534 seconds (JVM running for 10.812)
+[INFO ] 2022-09-23 14:37:30.550 [main] OmsbackendApplication - Starting OmsbackendApplication using Java 18.0.2.1 on jiayuedeMacBook-Air.local with PID 40890 (/Users/jiayue/Downloads/oms_backend/omsbackend/target/classes started by jiayue in /Users/jiayue/Downloads/oms_backend)
+[DEBUG] 2022-09-23 14:37:30.565 [main] OmsbackendApplication - Running with Spring Boot v2.7.3, Spring v5.3.22
+[INFO ] 2022-09-23 14:37:30.566 [main] OmsbackendApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2022-09-23 14:37:36.840 [main] OmsbackendApplication - Started OmsbackendApplication in 6.859 seconds (JVM running for 8.194)
+[INFO ] 2022-09-23 14:41:59.393 [main] OmsbackendApplication - Starting OmsbackendApplication using Java 18.0.2.1 on jiayuedeMacBook-Air.local with PID 40933 (/Users/jiayue/Downloads/oms_backend/omsbackend/target/classes started by jiayue in /Users/jiayue/Downloads/oms_backend)
+[DEBUG] 2022-09-23 14:41:59.403 [main] OmsbackendApplication - Running with Spring Boot v2.7.3, Spring v5.3.22
+[INFO ] 2022-09-23 14:41:59.409 [main] OmsbackendApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2022-09-23 14:42:05.608 [main] OmsbackendApplication - Started OmsbackendApplication in 6.712 seconds (JVM running for 8.071)
+[INFO ] 2022-09-25 19:05:46.230 [main] OmsbackendApplication - Starting OmsbackendApplication using Java 18.0.2.1 on jiayuedeMacBook-Air.local with PID 46333 (/Users/jiayue/Downloads/oms_backend/omsbackend/target/classes started by jiayue in /Users/jiayue/Downloads/oms_backend)
+[DEBUG] 2022-09-25 19:05:46.244 [main] OmsbackendApplication - Running with Spring Boot v2.7.3, Spring v5.3.22
+[INFO ] 2022-09-25 19:05:46.245 [main] OmsbackendApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2022-09-25 19:05:52.392 [main] OmsbackendApplication - Started OmsbackendApplication in 6.635 seconds (JVM running for 8.483)
+>>>>>>> origin/main
